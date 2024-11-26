@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "Tizen Browser without ads!",
   "packageType": "mods",
-  "websiteURL": "https://google.com/",
+  "websiteURL": "https://hianime.to/",
   "main": "dist/userScript.js",
   "author": "ghostfxck",
   "serviceFile": "dist/service.js",
